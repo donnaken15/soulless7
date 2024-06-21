@@ -1,0 +1,3 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/CyB1K/PS4-Fake-PKG-Tools-3.87
